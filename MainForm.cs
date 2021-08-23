@@ -612,7 +612,7 @@ foreach (Match match in regex_truck_placement_filter.Matches(tmp))
 					textBox4.AppendText("Pomijanie podmiany masy podwozia" + Environment.NewLine);
 				}
 				
-				/* TO KURWA TRZEBA NAPRAWIĆ ALBO COŚ */
+				/* TO TRZEBA NAPRAWIĆ ALBO COŚ */
 					textBox5.Text = Regex.Replace(textBox5.Text, @"time_upper_limit: ([0-9]){1,9}", "time_upper_limit: " + textBox6.Text);
 					textBox5.Text = Regex.Replace(textBox5.Text, @"money_account: ([0-9]){1,16}", "money_account: " + textBox7.Text);
 	
