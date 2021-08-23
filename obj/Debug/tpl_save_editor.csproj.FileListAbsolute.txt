@@ -1,0 +1,9 @@
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\tpl_save_editor.csproj.GenerateResource.Cache
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\bin\Debug\ets_save_editor.exe.config
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\bin\Debug\ets_save_editor.exe
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\bin\Debug\ets_save_editor.pdb
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\ets_save_editor.exe
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\ets_save_editor.pdb
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\ets_save_editor.MainForm.resources
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\tpl_save_editor.csprojAssemblyReference.cache
+C:\Users\KWIAT\Documents\SharpDevelop Projects\tpl_save_editor\obj\Debug\tpl_save_editor.csproj.CoreCompileInputs.cache
